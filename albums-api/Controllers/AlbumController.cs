@@ -13,6 +13,8 @@ public const int ITEMS_PER_PAGE = 10;
 public const string DEFAULT_USERNAME = "Guest";
 public const string BASKET_ID = "BasketId";
 public const string STORAGE_TEST = "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"; 
+public const string STORAGE_TEST = "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"; 
+
 
 {
     [Route("albums")]
